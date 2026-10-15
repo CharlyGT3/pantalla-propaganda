@@ -1,1 +1,1 @@
-{"schemaVersion":1,"version":"2026-10-15.1","items":[{"type":"image","src":"media/bienvenida-v1.png","duration":10}]}
+{"schemaVersion":1,"version":"2026-10-15.2","items":[{"type":"image","src":"media/musica-ejemplo-v1.png","duration":6,"transition":"fade"},{"type":"image","src":"media/deporte-ejemplo-v1.png","duration":6,"transition":"slide-left"},{"type":"image","src":"media/musica-ejemplo-v1.png","duration":6,"transition":"zoom"},{"type":"image","src":"media/deporte-ejemplo-v1.png","duration":6,"transition":"slide-right"}]}

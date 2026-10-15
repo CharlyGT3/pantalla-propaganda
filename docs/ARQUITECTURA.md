@@ -1,5 +1,7 @@
 # Arquitectura y requisitos acordados
 
+Actualización: la versión 2 incorpora Animate.css 4.1.1 autoalojado para transiciones de imágenes. Ver `EJEMPLOS.md` y `vendor/README.md`; esta decisión reemplaza la ausencia inicial de bibliotecas descrita más abajo. La prueba en NetCast sigue pendiente.
+
 ## Alcance y decisiones
 
 - Hosting gratuito GitHub Pages, HTML/CSS/JavaScript vanilla, sin PHP ni base de datos. Máximo operativo 500 MB de medios y 1–5 televisores, inicialmente uno.
